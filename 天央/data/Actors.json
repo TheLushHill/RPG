@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"animation01","classId":1,"equips":[],"faceIndex":2,"faceName":"actor02","traits":[],"initialLevel":1,"maxLevel":99,"name":"米露露","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"animation01","classId":2,"equips":[],"faceIndex":0,"faceName":"actor01","traits":[],"initialLevel":1,"maxLevel":99,"name":"夏凛","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"animation01","classId":3,"equips":[],"faceIndex":3,"faceName":"actor01","traits":[],"initialLevel":1,"maxLevel":99,"name":"莫比亚","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"animation01","classId":4,"equips":[],"faceIndex":1,"faceName":"actor01","traits":[],"initialLevel":1,"maxLevel":99,"name":"芙伊","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"animation01","classId":5,"equips":[],"faceIndex":4,"faceName":"actor01","traits":[],"initialLevel":1,"maxLevel":99,"name":"虞夜","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":5,"characterName":"animation01","classId":6,"equips":[],"faceIndex":6,"faceName":"actor01","traits":[],"initialLevel":1,"maxLevel":99,"name":"泰普沐恩","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":6,"characterName":"animation01","classId":7,"equips":[],"faceIndex":2,"faceName":"actor01","traits":[],"initialLevel":1,"maxLevel":99,"name":"斐妮","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":2,"characterName":"animation02","classId":8,"equips":[],"faceIndex":7,"faceName":"actor01","traits":[],"initialLevel":1,"maxLevel":99,"name":"安提娜","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"animation02","classId":9,"equips":[],"faceIndex":0,"faceName":"actor02","traits":[],"initialLevel":1,"maxLevel":99,"name":"文斯","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":1,"characterName":"animation02","classId":10,"equips":[],"faceIndex":1,"faceName":"actor02","traits":[],"initialLevel":1,"maxLevel":99,"name":"若白","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":2,"characterName":"animation02","classId":11,"equips":[],"faceIndex":5,"faceName":"actor01","traits":[],"initialLevel":1,"maxLevel":99,"name":"洛藤","nickname":"","note":"","profile":""}
+]
